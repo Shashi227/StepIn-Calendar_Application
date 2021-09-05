@@ -5,7 +5,7 @@
 
 
 # Calendar Application
-![calender](https://user-images.githubusercontent.com/47179179/132140441-ed4e51d1-fe50-4857-8e78-7d10e16b7a0c.jpg))
+![calender](https://user-images.githubusercontent.com/47179179/132140441-ed4e51d1-fe50-4857-8e78-7d10e16b7a0c.jpg)
 
 
 ## Introduction
