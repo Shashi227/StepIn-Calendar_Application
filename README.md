@@ -4,6 +4,15 @@
 
 
 
+##BADGS
+
+![code_Quality_score](https://www.code-inspector.com/project/27729/score/svg)
+
+![code_grade](https://www.code-inspector.com/project/27729/status/svg)
+
+
+
+
 # Calendar Application
 ![calender](https://user-images.githubusercontent.com/47179179/132140441-ed4e51d1-fe50-4857-8e78-7d10e16b7a0c.jpg)
 
