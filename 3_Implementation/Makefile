@@ -7,7 +7,8 @@ src/clscon_Setcon_chkleap.c\
 src/getday_chknote_prtmon.c\
 src/getname_prtdate_dayno.c\
 src/gotooxy_setcolor_clearcolor.c\
-src/incmon_decmon_getdays.c
+src/incmon_decmon_getdays.c\
+inc/calendar_operations.h
 
 hos_SRC = test_calendar.c
 
