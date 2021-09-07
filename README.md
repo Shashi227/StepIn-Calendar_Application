@@ -40,14 +40,14 @@ Periods in a calendar (such as years and months) are usually, though not necessa
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
-Requirements   | Documents detailing requirements and research
-Architecture       | Documents specifying design details
-Implementation | All code and documentation
-Test_plan      | Documents with test plans and procedures
+`1_Requirements`   | Documents detailing requirements and research
+`2_Architecture`       | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+`PS No.` |  `Name`   |    `Features`    | `Issuess Raised` |`Issues Resolved`|`No Test Cases`|`Test Case Pass`
 -------|---------|----------------|----------------|---------------|-------------|--------------
 99006269 | Shashi Kumar  | Search day , month and add notes    |     |     |   |    
      
