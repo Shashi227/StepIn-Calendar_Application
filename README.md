@@ -6,19 +6,24 @@
 
 ##BADGS
 
+
+Build | Code Quality | Unity | [Git Inspector](using github.io option) | CI-Coverage
+------|----------|-------|--------------|--------------
+[![C/C++ CI - Build Status](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/c-build.yml/badge.svg)](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/c-build.yml) | [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/valgrind.yml)  |[![Unit Testing](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/unit-test.yml)| [![Contribution Check - Git Inspector](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/gitinspector.yml) | [![cppcheck-action](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/cppcheck.yml)
+
 ![code_Quality_score](https://www.code-inspector.com/project/27729/score/svg)
 
 ![code_grade](https://www.code-inspector.com/project/27729/status/svg)
 
-[![C/C++ CI - Build Status](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/c-build.yml/badge.svg)](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/c-build.yml)
 
-[![Unit Testing](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/unit-test.yml)
 
-[![cppcheck-action](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/cppcheck.yml)
 
-[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/valgrind.yml)
 
-[![Contribution Check - Git Inspector](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/gitinspector.yml)
+
+
+
+
+
 
 
 
