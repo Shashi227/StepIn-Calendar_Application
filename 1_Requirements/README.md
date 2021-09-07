@@ -26,19 +26,29 @@ This project gives a simple application to search any day month and year , also 
 
 
 # 4W&#39;s and 1&#39;H
-Who:
+## Who:
+
+
 Calendar is an application which is used to know the Date,Day and an year .It is used by any human being in any time knowing/tracking purpose.
 
-What:
+## What:
+
+
 It is helpful in order to check the data of any date,day,month and year.And can add the note to a particular date in an year.
 
-When:
+## When:
+
+
 It can be to set the timeline of our personal and professional tasks.
 
-Where:
+## Where:
+
+
 It is used in organizing the timeline of any task.For example about projects,constructions,hospitals,etc..
 
-How:
+## How:
+
+
 This project is implemented to get the data of a particular day by giving year as an input.
 
 
@@ -52,7 +62,7 @@ This project is implemented to get the data of a particular day by giving year a
 ## Low Level Requirements
 |ID No|Description|Status|
 |---|---|---|
-|LR01|After getting the input from user checks for a valid input|Implemented|
-|LR02|Calculates number of days in each month accordingly in case of a leap year|Implemented|
-|LR03|Now it assigns the day of the week for a given data|Implemented|
-|LR04|Displays the Calendar month by month|Implemented|
+|HR01-LR01|After getting the input from user checks for a valid input|Implemented|
+|HR01-LR02|Calculates number of days in each month accordingly in case of a leap year|Implemented|
+|HR02-LR03|Now it assigns the day of the week for a given data|Implemented|
+|HR03-LR04|Displays the Calendar month by month|Implemented|
