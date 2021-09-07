@@ -10,6 +10,8 @@
 
 ![code_grade](https://www.code-inspector.com/project/27729/status/svg)
 
+[![C/C++ CI - Build Status](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/c-build.yml/badge.svg)](https://github.com/Shashi227/StepIn-Calendar_Application/actions/workflows/c-build.yml)
+
 
 
 
