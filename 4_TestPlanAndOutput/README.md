@@ -17,3 +17,19 @@
 |H_01   |When choosing from the available options, check if the input is valid or invalid |User's Choice |  SUCCESS	| SUCCESS	| Scenario based|
 |H_02   |Enter the details of which user selects from the choosemodule in the menu options| User's Choice | SUCCESS	| SUCCESS	| Scenario based|
 |H_03   |check the details of which user entered and provide information| User's choice|  SUCCESS	| SUCCESS	| Scenario based|
+
+# Output
+
+# Checking Day
+
+![finding date](https://user-images.githubusercontent.com/47179179/132480634-e8151041-0cd9-467b-a3eb-f4eb839700b1.JPG)
+
+# Checking Month:
+
+![finding month](https://user-images.githubusercontent.com/47179179/132480781-7e1a0aa0-5abc-45ae-9876-f2d3b75cc12c.JPG)
+
+# ADD Notes
+![Add notes](https://user-images.githubusercontent.com/47179179/132480936-e1baf2ce-28e5-4701-b66d-46070c7b426a.JPG)
+
+# Exit Function
+![Exit pic](https://user-images.githubusercontent.com/47179179/132481001-ca32eef0-fd36-46f0-8eb6-37607b6bf255.JPG)
